@@ -11,12 +11,10 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
    
    
 ## Presentation with Video
-### Week1: Introduction of Neural network acceleration (February 02, 2020)
-**Optimal DNN Primitive Selection with Partitioned Boolean quadratic Programming**  
 
-	Presenter: Constant Park (http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
-	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Optimal%20DNN%20Primitive%20Selection%20with%20Partitioned%20Boolean%20Quadratic%20Programming.pdf   
-	Video: https://youtu.be/ZLGLogU5mt0   
+	Presenter: Constant Park 
+	PPT:  
+	Video: 
 
 
 	
