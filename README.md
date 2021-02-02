@@ -5,7 +5,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 ## Paper List (10)
 |Paper Name|Conference/Jounr Name|Year|Keyword|
 |---|---|---|---|
-|내용 1|내용 2|내용 3|내용 4|
+|Learning to Optimize Tensor Programs|NIPS|2018|Scheduling|
 |내용 5|내용 6|내용 7|내용 8|
 |내용 9|내용 10|내용 11|내용 12|
    
