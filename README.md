@@ -6,7 +6,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 |Paper Name|Conference/Jounr Name|Year|Keyword|
 |---|---|---|---|
 |Learning to Optimize Tensor Programs|NIPS|2018|Scheduling|
-|내용 5|내용 6|내용 7|내용 8|
+|Relay: A High-Level Compiler for Deep Learning|ArXiv|2019|Graph Optimization|
 |내용 9|내용 10|내용 11|내용 12|
    
 ## Presentation with Video
@@ -21,6 +21,5 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)  
-**Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 김태완 (rlaxodhksk@snu.ac.kr), DownyK (TeamBehindDowny@gmail.com), 전지혜 (jyeah05@gmail.com), Martin (dhhwang89@gmail.com), 김용우 (guruzoa@gmail.com), 
-(rlatjrwnd242@naver.com)
+**Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 
 
