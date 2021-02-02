@@ -2,7 +2,7 @@
 This is a repository of the study "DL Compiler". The goal of this study is to understand the acceleration of nerual networks with DL Compiler. The topic of acceleration includes `On-Device AI`,`DL Compiler`, `TVM`, `ONNX` , `Compiler`. Our materials are open to git and youtube. This study is supported by [NOTA](https://nota.ai). Thank you NOTA !
 
 
-## Paper List (10)
+## Paper List
 |Paper Name|Conference/Jounr Name|Year|Keyword|
 |---|---|---|---|
 |Learning to Optimize Tensor Programs|NIPS|2018|Scheduling|
