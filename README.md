@@ -6,8 +6,9 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 |Paper Name|Conference/Jounr Name|Year|Keyword|
 |---|---|---|---|
 |Learning to Optimize Tensor Programs|NIPS|2018|Scheduling|
-|Relay: A High-Level Compiler for Deep Learning|ArXiv|2019|Graph Optimization|
-|내용 9|내용 10|내용 11|내용 12|
+|Relay: A High-Level Compiler for Deep Learning|ArXiv|2019|IR Optimization|
+|TVM: An automated end-to-end optimizing compiler for deep learning|OSDI|2018|DL Compiler|
+   
    
 ## Presentation with Video
 ### Week1: Introduction of Neural network acceleration (February 02, 2020)
