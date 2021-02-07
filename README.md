@@ -8,18 +8,17 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 |---|---|---|---|
 |Learning to Optimize Tensor Programs|NIPS|2018|Scheduling|
 |TVM: An automated end-to-end optimizing compiler for deep learning|OSDI|2018|DL Compiler|
-   
-   
+|MLIR: Scaling Compiler Infrastructure for Domain Specific Computation|CGO|2021|IR|
+
 ## Presentation with Video
 # TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
 	Presenter: Constant Park (sonicstage12@naver.com)
 	Date: February, 18, 2021
-	PPT:  
-	Video: 
+	PPT:
+	Video:
 
 
-	
 ## Contributors
-**Main Contributor**: Constant Park (sonicstage12@naver.com)  
-**Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 
+**Main Contributor**: Constant Park (sonicstage12@naver.com)
+**Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr),
 
