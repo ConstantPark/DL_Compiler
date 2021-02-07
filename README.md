@@ -7,13 +7,12 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 |Paper Name|Conference/Jounr Name|Year|Keyword|
 |---|---|---|---|
 |Learning to Optimize Tensor Programs|NIPS|2018|Scheduling|
-|Relay: A High-Level Compiler for Deep Learning|ArXiv|2019|IR Optimization|
 |TVM: An automated end-to-end optimizing compiler for deep learning|OSDI|2018|DL Compiler|
    
    
 ## Presentation with Video
 # TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
-	Presenter: Constant Park 
+	Presenter: Constant Park (sonicstage12@naver.com)
 	PPT:  
 	Video: 
 
