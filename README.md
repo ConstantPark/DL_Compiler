@@ -14,7 +14,7 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 # TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
 	Presenter: Constant Park (sonicstage12@naver.com)
 	Date: February, 25, 2021
-	PPT: 
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/TVM.pdf
 	Video: https://youtu.be/wzy1QMci_Zs
 
 
