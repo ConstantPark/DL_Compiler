@@ -17,6 +17,11 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/TVM.pdf
 	Video: https://youtu.be/wzy1QMci_Zs
 
+# XLA: Optimizing Compiler for Machine Learning
+	Presenter: Tee Jung (tee.ty.jung@openedges.com)
+	Date: March, 11, 2021
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/XLA101.pdf
+	Video: 
 
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)
