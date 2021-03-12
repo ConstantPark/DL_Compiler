@@ -18,12 +18,12 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 	Video: https://youtu.be/wzy1QMci_Zs
 
 # XLA: Optimizing Compiler for Machine Learning
-	Presenter: Tee Jung (tee.ty.jung@openedges.com)
+	Presenter: Tee Jung (naey05@gmail.com, https://b.mytears.org/)
 	Date: March, 11, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/XLA101.pdf
 	Video: 
 
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)
-**Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr),
+**Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 정태영 (naey05@gmail.com)
 
