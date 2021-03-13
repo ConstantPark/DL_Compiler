@@ -5,7 +5,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive Survey`, IEEE TPDS 2021).
 ## Paper List
 |Paper Name|Conference/Jounr Name|Year|
-|---|---|---|---|
+|---|---|---|
 |TVM: An automated end-to-end optimizing compiler for deep learning|OSDI|2018|
 |XLA| https://www.tensorflow.org/xla?hl=ko| 2017|
 |Efficient Execution of Quantized Deep Learning Models: A Compiler Approach| https://arxiv.org/abs/2006.10226|2020|
