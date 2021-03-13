@@ -8,11 +8,11 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 |---|---|---|---|
 |Learning to Optimize Tensor Programs|NIPS|2018|Scheduling|
 |TVM: An automated end-to-end optimizing compiler for deep learning|OSDI|2018|DL Compiler|
-|XLA, https://www.tensorflow.org/xla?hl=ko, 2017|
-|Efficient Execution of Quantized Deep Learning Models: A Compiler Approach, https://arxiv.org/abs/2006.10226, 2020|
-|PPlaidML, https://www.intel.com/content/www/us/en/artificial-intelligence/plaidml.html, 2017|
-|Learning to Optimize Tensor Programs & Ansor, NIPS & OSDI 2020|
-|Glow: Graph Lowering Compiler Techniques for Neural Networks, https://arxiv.org/pdf/1805.00907.pdf, 2018|
+|XLA| https://www.tensorflow.org/xla?hl=ko| 2017|
+|Efficient Execution of Quantized Deep Learning Models: A Compiler Approach| https://arxiv.org/abs/2006.10226| 2020|
+|PPlaidML| https://www.intel.com/content/www/us/en/artificial-intelligence/plaidml.html| 2017|
+|Learning to Optimize Tensor Programs & Ansor| NIPS & OSDI |2020|
+|Glow: Graph Lowering Compiler Techniques for Neural Networks| https://arxiv.org/pdf/1805.00907.pdf| 2018|
 
 
 |MLIR: Scaling Compiler Infrastructure for Domain Specific Computation|CGO|2021|IR|
