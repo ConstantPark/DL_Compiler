@@ -27,7 +27,7 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 	Presenter: Tee Jung (naey05@gmail.com, https://b.mytears.org/)
 	Date: March, 11, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/XLA101.pdf
-	Video: https://youtu.be/Gvfvy-r6K4s
+	Video: https://youtu.be/_3ykXQH5h2o
 
 # Efficient Execution of Quantized Deep Learning Models: A Compiler Approach
 	Presenter: 이제민 (leejaymin@cnu.ac.kr)
