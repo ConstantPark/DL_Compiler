@@ -32,8 +32,8 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 # Efficient Execution of Quantized Deep Learning Models: A Compiler Approach
 	Presenter: 이제민 (leejaymin@cnu.ac.kr)
 	Date: March, 25, 2021
-	PPT: 
-	Video: 
+	PPT: https://www.slideshare.net/leejaymin/efficient-execution-of-quantized-deep-learning-models-a-compiler-approach
+	Video: https://youtu.be/JV31xwqJUKI
 	
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)
