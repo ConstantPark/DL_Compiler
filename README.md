@@ -13,6 +13,7 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 |Learning to Optimize Tensor Programs & Ansor| NIPS & OSDI |2020|
 |Ansor: Generating High-Performance Tensor Programs for Deep Learning|ODSI|2020|
 |Glow: Graph Lowering Compiler Techniques for Neural Networks| https://arxiv.org/pdf/1805.00907.pdf| 2018|
+|MLIR: A Compiler Infrastructure for the End of Moore’s Law|https://arxiv.org/pdf/2002.11054.pdf|2020|
 
 
 |MLIR: Scaling Compiler Infrastructure for Domain Specific Computation|CGO|2021|IR|
