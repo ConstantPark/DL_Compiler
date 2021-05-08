@@ -11,6 +11,7 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 |Efficient Execution of Quantized Deep Learning Models: A Compiler Approach| https://arxiv.org/abs/2006.10226|2020|
 |PPlaidML| https://www.intel.com/content/www/us/en/artificial-intelligence/plaidml.html| 2017|
 |Learning to Optimize Tensor Programs & Ansor| NIPS & OSDI |2020|
+|Ansor: Generating High-Performance Tensor Programs for Deep Learning|ODSI|2020|
 |Glow: Graph Lowering Compiler Techniques for Neural Networks| https://arxiv.org/pdf/1805.00907.pdf| 2018|
 
 
@@ -39,19 +40,19 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 	Presenter: Seo Sanghyeon (sanxiyn@gmail.com)
 	Date: April, 22, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/PlaidML.pdf
-	Video: hhttps://youtu.be/GJ_IYfVmPg4
+	Video: https://youtu.be/GJ_IYfVmPg4
 	
 # AutoTVM and Auto Scheduler
 	Presenter: 류재훈 (jaehunryu@postech.ac.kr)
 	Date: April, 22, 2021
-	PPT: https://www.slideshare.net/leejaymin/efficient-execution-of-quantized-deep-learning-models-a-compiler-approach
-	Video: https://youtu.be/JV31xwqJUKI	
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/Auto_Opt.pdf
+	Video: https://youtu.be/rl8pobauUn4
 
 # MLIR: A Compiler Infrastructure for the End of Moore’s Law
 	Presenter: 류재훈 (jaehunryu@postech.ac.kr)
 	Date: April, 08, 2021
-	PPT: https://www.slideshare.net/leejaymin/efficient-execution-of-quantized-deep-learning-models-a-compiler-approach
-	Video: https://youtu.be/JV31xwqJUKI	
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/Introduction%20to%20MLIR.pdf
+	Video: https://youtu.be/vZy_aHERPDY
 	
 
 ## Contributors
