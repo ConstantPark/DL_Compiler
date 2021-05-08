@@ -15,9 +15,6 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 |Glow: Graph Lowering Compiler Techniques for Neural Networks| https://arxiv.org/pdf/1805.00907.pdf| 2018|
 |MLIR: A Compiler Infrastructure for the End of Moore’s Law|https://arxiv.org/pdf/2002.11054.pdf|2020|
 
-
-|MLIR: Scaling Compiler Infrastructure for Domain Specific Computation|CGO|2021|IR|
-
 ## Presentation with Video
 # TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
 	Presenter: Constant Park (sonicstage12@naver.com)
@@ -50,8 +47,8 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 	Video: https://youtu.be/rl8pobauUn4
 
 # MLIR: A Compiler Infrastructure for the End of Moore’s Law
-	Presenter: 류재훈 (jaehunryu@postech.ac.kr)
-	Date: April, 08, 2021
+	Presenter: Dong-hee Na (donghee.na92@gmail.com)
+	Date: May, 06, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/Introduction%20to%20MLIR.pdf
 	Video: https://youtu.be/vZy_aHERPDY
 	
