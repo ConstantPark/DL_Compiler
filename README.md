@@ -35,6 +35,25 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 	PPT: https://www.slideshare.net/leejaymin/efficient-execution-of-quantized-deep-learning-models-a-compiler-approach
 	Video: https://youtu.be/JV31xwqJUKI
 	
+# plaidML: A platform for making deep learning work everywhere.
+	Presenter: Seo Sanghyeon (sanxiyn@gmail.com)
+	Date: April, 22, 2021
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/PlaidML.pdf
+	Video: hhttps://youtu.be/GJ_IYfVmPg4
+	
+# AutoTVM and Auto Scheduler
+	Presenter: 류재훈 (jaehunryu@postech.ac.kr)
+	Date: April, 22, 2021
+	PPT: https://www.slideshare.net/leejaymin/efficient-execution-of-quantized-deep-learning-models-a-compiler-approach
+	Video: https://youtu.be/JV31xwqJUKI	
+
+# MLIR: A Compiler Infrastructure for the End of Moore’s Law
+	Presenter: 류재훈 (jaehunryu@postech.ac.kr)
+	Date: April, 08, 2021
+	PPT: https://www.slideshare.net/leejaymin/efficient-execution-of-quantized-deep-learning-models-a-compiler-approach
+	Video: https://youtu.be/JV31xwqJUKI	
+	
+
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)
 **Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 정태영 (naey05@gmail.com)
