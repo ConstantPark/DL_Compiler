@@ -53,6 +53,11 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 	Video: https://youtu.be/vZy_aHERPDY
 	
 
+# Chameleon: Adaptive Code Optimization for Expedited Deep Neural Network Compilation
+	Presenter: Taehee Jeong (wwee3631@gmail.com)
+	Date: Jun 17, 2021
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/Chameleon.pdf
+
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)
 **Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 정태영 (naey05@gmail.com)
