@@ -58,6 +58,35 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/BYOC.pdf
 	Video: 
 	
+# Tensor Comprehension
+	Presenter: Jungju Oh
+	Date: June, 10, 2021
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/Tensor%20Comprehensions.pdf
+	Video: 
+	
+# Chameleon: Adaoptive Code Optimization for Expedited Deep Neural Network Compilation
+	Presenter: Taehee Jeong
+	Date: June, 14, 2021
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/%5BDL%20Study%5D%20Chameleon_%20Adaptive%20Code%20Optimization%20for%20Expedited%20Deep%20Neural%20Network%20Compilation.pdf
+	Video: 	
+
+# Glow for NXP MCUs
+	Presenter: Dongshik Won
+	Date: July, 15, 2021
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/Glow%20for%20NXP%20MCUs.pdf
+	Video: 	
+
+# TensorDIMM: Practical Near-Memory Processing Archiecture for Embeddings and Tensor Operations in DL
+	Presenter: Constant Park
+	Date: August, 05, 2021
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/TensorDIMM.pdf
+	Video: 	
+
+# ConfuciuX: Autonomous Hardware Resource Assignment for DNN Acclerators using Reinforcement Learning
+	Presenter: Constant Park
+	Date: September, 09, 2021
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/ConfuciuX.pdf
+	Video: 	
 
 
 
@@ -65,3 +94,6 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 **Main Contributor**: Constant Park (sonicstage12@naver.com)
 **Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 정태영 (naey05@gmail.com)
 
+
+해당 스터디에 관심이 있으신 분은 참여가 가능합니다. 다음의 이메일로 연락주세요 (sonicstage12@naver.com).   
+Anyone interested in the study can participate. Please contact us at the following email (sonicstage12@naver.com).
