@@ -52,6 +52,14 @@ Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive S
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/Introduction%20to%20MLIR.pdf
 	Video: https://youtu.be/vZy_aHERPDY
 	
+# BYOC: Bring Your Own Codegen to Deep Learning Compiler
+	Presenter: Hyunwoo Cho
+	Date: May, 20, 2021
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/BYOC.pdf
+	Video: 
+	
+
+
 
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)
