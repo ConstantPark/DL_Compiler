@@ -75,7 +75,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/TensorDIMM.pdf
 	Video: -	
 
-# ConfuciuX: Autonomous Hardware Resource Assignment for DNN Acclerators using Reinforcement Learning
+# ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators using Reinforcement Learning
 	Presenter: Constant Park
 	Date: September, 09, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/ConfuciuX.pdf
