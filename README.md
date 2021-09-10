@@ -60,20 +60,20 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 # Glow: Graph Lowering Compiler Techniques for Neural Networks
 	Presenter: Jeongho Kim
 	Date: July, 1, 2021
-	PPT: 
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/Glow_%20Graph%20Lowering%20Compiler%20Techniques%20for%20Neural%20Networks.pdf
 	Video: https://youtu.be/wmIiPUDgzl4
 
 # Glow for NXP MCUs
 	Presenter: Dongshik Won
 	Date: July, 15, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/Glow%20for%20NXP%20MCUs.pdf
-	Video: 	
+	Video: https://youtu.be/6ALFNYbnnQs	
 
 # TensorDIMM: Practical Near-Memory Processing Archiecture for Embeddings and Tensor Operations in DL
 	Presenter: Constant Park
 	Date: August, 05, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/TensorDIMM.pdf
-	Video: 	
+	Video: -	
 
 # ConfuciuX: Autonomous Hardware Resource Assignment for DNN Acclerators using Reinforcement Learning
 	Presenter: Constant Park
@@ -81,12 +81,6 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/ConfuciuX.pdf
 	Video: 	
 
-
-
-# Chameleon: Adaptive Code Optimization for Expedited Deep Neural Network Compilation
-	Presenter: Taehee Jeong (wwee3631@gmail.com)
-	Date: Jun 17, 2021
-	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/Chameleon.pdf
 
 ## Contributors
 **Contributor**: Constant Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 정태영 (naey05@gmail.com) and ...
