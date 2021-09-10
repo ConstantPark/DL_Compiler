@@ -1,5 +1,5 @@
 ## Deep Learning Compiler Study
-This is a repository of the study "DL Compiler". The goal of this study is to understand the acceleration of nerual networks with DL Compiler. The topic of acceleration includes `On-Device AI`,`DL Compiler`, `TVM`, `ONNX` , `Compiler`. Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive Survey`, IEEE TPDS 2021). Also we discuss other topics such as 'HW architecture', 'SW acceleration'. Our materials are open to git and youtube. 
+This is a repository of the study "DL Compiler". The goal of this study is to understand the acceleration of nerual networks with DL Compiler. The topic of acceleration includes `On-Device AI`,`DL Compiler`, `TVM`, `ONNX` , `Compiler`. Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive Survey`, IEEE TPDS 2021). Also we discuss other topics such as `HW architecture`, `SW acceleration`. Our materials are open to git and youtube. 
 
 
 ## Presentation with Video
