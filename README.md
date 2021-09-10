@@ -1,19 +1,6 @@
 ## Deep Learning Compiler Study
-This is a repository of the study "DL Compiler". The goal of this study is to understand the acceleration of nerual networks with DL Compiler. The topic of acceleration includes `On-Device AI`,`DL Compiler`, `TVM`, `ONNX` , `Compiler`. Our materials are open to git and youtube. 
+This is a repository of the study "DL Compiler". The goal of this study is to understand the acceleration of nerual networks with DL Compiler. The topic of acceleration includes `On-Device AI`,`DL Compiler`, `TVM`, `ONNX` , `Compiler`. Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive Survey`, IEEE TPDS 2021). Also we discuss other topics such as 'HW architecture', 'SW acceleration'. Our materials are open to git and youtube. 
 
-
-Our study is based on this paper (`The Deep Learning Compiler: A Comprehensive Survey`, IEEE TPDS 2021).
-## Paper List
-|Paper Name|Conference/Jounr Name|Year|
-|---|---|---|
-|TVM: An automated end-to-end optimizing compiler for deep learning|OSDI|2018|
-|XLA| https://www.tensorflow.org/xla?hl=ko| 2017|
-|Efficient Execution of Quantized Deep Learning Models: A Compiler Approach| https://arxiv.org/abs/2006.10226|2020|
-|PPlaidML| https://www.intel.com/content/www/us/en/artificial-intelligence/plaidml.html| 2017|
-|Learning to Optimize Tensor Programs & Ansor| NIPS & OSDI |2020|
-|Ansor: Generating High-Performance Tensor Programs for Deep Learning|ODSI|2020|
-|Glow: Graph Lowering Compiler Techniques for Neural Networks| https://arxiv.org/pdf/1805.00907.pdf| 2018|
-|MLIR: A Compiler Infrastructure for the End of Moore’s Law|https://arxiv.org/pdf/2002.11054.pdf|2020|
 
 ## Presentation with Video
 # TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
