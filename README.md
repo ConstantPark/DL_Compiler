@@ -43,19 +43,25 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Presenter: Hyunwoo Cho
 	Date: May, 20, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/BYOC.pdf
-	Video: 
+	Video: https://youtu.be/q3jE7nu0EgQ
 	
 # Tensor Comprehension
 	Presenter: Jungju Oh
 	Date: June, 10, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/Tensor%20Comprehensions.pdf
-	Video: 
+	Video: https://youtu.be/8MutpjppKlw
 	
 # Chameleon: Adaoptive Code Optimization for Expedited Deep Neural Network Compilation
 	Presenter: Taehee Jeong
 	Date: June, 14, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/%5BDL%20Study%5D%20Chameleon_%20Adaptive%20Code%20Optimization%20for%20Expedited%20Deep%20Neural%20Network%20Compilation.pdf
-	Video: 	
+	Video: https://youtu.be/vCJpEwSnEu0
+
+# Glow: Graph Lowering Compiler Techniques for Neural Networks
+	Presenter: Jeongho Kim
+	Date: July, 1, 2021
+	PPT: 
+	Video: https://youtu.be/wmIiPUDgzl4
 
 # Glow for NXP MCUs
 	Presenter: Dongshik Won
