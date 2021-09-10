@@ -78,8 +78,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 
 
 ## Contributors
-**Main Contributor**: Constant Park (sonicstage12@naver.com)
-**Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 정태영 (naey05@gmail.com)
+**Contributor**: Constant Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 정태영 (naey05@gmail.com) and ...
 
 
 해당 스터디에 관심이 있으신 분은 참여가 가능합니다. 다음의 이메일로 연락주세요 (sonicstage12@naver.com).   
