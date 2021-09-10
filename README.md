@@ -79,7 +79,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Presenter: Constant Park
 	Date: September, 09, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/ConfuciuX.pdf
-	Video: 	
+	Video: https://youtu.be/XWkQQQhoBMI
 
 
 ## Contributors
