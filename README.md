@@ -83,6 +83,11 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 
 
 
+# Chameleon: Adaptive Code Optimization for Expedited Deep Neural Network Compilation
+	Presenter: Taehee Jeong (wwee3631@gmail.com)
+	Date: Jun 17, 2021
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/Chameleon.pdf
+
 ## Contributors
 **Contributor**: Constant Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 정태영 (naey05@gmail.com) and ...
 
