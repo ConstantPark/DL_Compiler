@@ -81,6 +81,10 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/ConfuciuX.pdf
 	Video: https://youtu.be/XWkQQQhoBMI
 
+# AIMET: 
+	Presenter: Tee Jung (naey05@gmail.com, https://b.mytears.org/)
+	Date: January, 06, 2022
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/AIMET.pdf
 
 ## Contributors
 **Contributor**: Constant Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 정태영 (naey05@gmail.com) and ...
