@@ -84,31 +84,31 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 # Optimizing DNN Computation with Relaxed Graph Substitutions & TASO: Optimizing Deep Learning Computation with Automatic Generation of Graph Substitutions
 	Presenter: 류재훈 (jaehunryu@postech.ac.kr)
 	Date: September, 30, 2021
-	PPT: 
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/taso.pdf
 	Video: 
 
 # HAWQ-V3: Dyadic Neural Network Quantization
 	Presenter: 이제민 (leejaymin@cnu.ac.kr)
 	Date: October, 14, 2021
-	PPT: 
-	Video: 
+	PPT: https://www.slideshare.net/leejaymin/hawqv3-dyadic-neural-network-quantization
+	Video: https://www.youtube.com/watch?v=Hxrw4cDM0Tw&list=UU03m_PqzOeNJPmZyyY2dRQw&index=2
 
 # I-BERT: Integer-only BERT Quantization
 	Presenter: Dongshik Won
 	Date: November, 11, 2021
-	PPT: 
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/I-BERT_%20Integer-only%20BERT%20Quantization.pdf
 	Video: 
 
 # DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion
 	Presenter: Taehee Jeong
 	Date: November, 15, 2021
-	PPT: 
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/DNNFusion.pdf
 	Video: 
 
 # TENET: A Framework for Modeling Tensor Dataflow Based on Relation-centric Notation
 	Presenter: Hyunwoo Cho
 	Date: December, 09, 2021
-	PPT: 
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/DLC_Study_211209_HyunwooCho.pdf
 	Video: 
 
 # AIMET: 
