@@ -86,6 +86,12 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Date: January, 06, 2022
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/AIMET.pdf
 
+
+# Newton: A DRAM-maker's Accelerator-in-Memory (AiM) Architecture for ML 
+	Presenter: Yongwon Shin (ywshin@postech.ac.kr)
+	Date: February, 17, 2022
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/newton.pdf
+	
 ## Contributors
 **Contributor**: Constant Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 정태영 (naey05@gmail.com) and ...
 
