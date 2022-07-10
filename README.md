@@ -85,7 +85,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Presenter: 류재훈 (jaehunryu@postech.ac.kr)
 	Date: September, 30, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/taso.pdf
-	Video: 
+	Video: https://youtu.be/XZdnRYbM1g0
 
 # HAWQ-V3: Dyadic Neural Network Quantization
 	Presenter: 이제민 (leejaymin@cnu.ac.kr)
@@ -115,7 +115,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Presenter: Tee Jung (naey05@gmail.com, https://b.mytears.org/)
 	Date: January, 06, 2022
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/AIMET.pdf
-	Video: 
+	Video: -
 
 # Newton: A DRAM-maker's Accelerator-in-Memory (AiM) Architecture for ML 
 	Presenter: Yongwon Shin (ywshin@postech.ac.kr)
