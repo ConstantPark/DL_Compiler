@@ -97,7 +97,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Presenter: Dongshik Won
 	Date: November, 11, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/I-BERT_%20Integer-only%20BERT%20Quantization.pdf
-	Video: 
+	Video: https://youtu.be/--Is5DxG1wU
 
 # DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion
 	Presenter: Taehee Jeong
@@ -109,7 +109,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Presenter: Hyunwoo Cho
 	Date: December, 09, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/DLC_Study_211209_HyunwooCho.pdf
-	Video: 
+	Video: https://youtu.be/snh4BZ0v6jI
 
 # AIMET: 
 	Presenter: Tee Jung (naey05@gmail.com, https://b.mytears.org/)
