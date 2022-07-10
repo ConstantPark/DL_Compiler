@@ -103,7 +103,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Presenter: Taehee Jeong
 	Date: November, 15, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/DNNFusion.pdf
-	Video: 
+	Video: https://youtu.be/P-LZ-RZIH0U
 
 # TENET: A Framework for Modeling Tensor Dataflow Based on Relation-centric Notation
 	Presenter: Hyunwoo Cho
@@ -121,7 +121,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Presenter: Yongwon Shin (ywshin@postech.ac.kr)
 	Date: February, 17, 2022
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/newton.pdf
-	Video: 
+	Video: https://youtu.be/2076HWa7abY
 
 ## Contributors
 **Contributor**: Constant Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 정태영 (naey05@gmail.com) and ...
