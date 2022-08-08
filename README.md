@@ -111,7 +111,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/DLC_Study_211209_HyunwooCho.pdf
 	Video: https://youtu.be/snh4BZ0v6jI
 
-# AIMET: 
+# AIMET: AI Model Efficiency Toolkit
 	Presenter: Tee Jung (naey05@gmail.com, https://b.mytears.org/)
 	Date: January, 06, 2022
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/AIMET.pdf
@@ -127,7 +127,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Presenter:  Constant Park
 	Date: August, 08, 2022
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/HDA.pdf
-	Video: 
+	Video: -
 
 
 
