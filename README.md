@@ -123,6 +123,14 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/newton.pdf
 	Video: https://youtu.be/2076HWa7abY
 
+# Heterogeneous Dataflow Accelerators for Multi-DNN Workloads  
+	Presenter:  Constant Park
+	Date: August, 08, 2022
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/HDA.pdf
+	Video: 
+
+
+
 ## Contributors
 **Contributor**: Constant Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 정태영 (naey05@gmail.com) and ...
 
