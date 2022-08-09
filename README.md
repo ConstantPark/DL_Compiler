@@ -127,7 +127,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Presenter:  Constant Park
 	Date: August, 08, 2022
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/HDA.pdf
-	Video: -
+	Video: https://youtu.be/C_GyaR4ukP0
 
 
 
