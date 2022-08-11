@@ -21,7 +21,7 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	PPT: https://www.slideshare.net/leejaymin/efficient-execution-of-quantized-deep-learning-models-a-compiler-approach
 	Video: https://youtu.be/JV31xwqJUKI
 	
-# plaidML: A platform for making deep learning work everywhere.
+# PlaidML: Portable Deep Learning Compiler
 	Presenter: Seo Sanghyeon (sanxiyn@gmail.com)
 	Date: April, 22, 2021
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/PlaidML.pdf
