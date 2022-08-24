@@ -130,9 +130,11 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Video: https://youtu.be/C_GyaR4ukP0
 
 
-
-## Contributors
-**Contributor**: Constant Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 정태영 (naey05@gmail.com) and ...
+# MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer
+	Presenter:  이제민 (leejaymin@etri.re.kr)
+	Date: August, 22, 2022
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/220822_MobileViTv1.pdf
+	Video: https://youtu.be/dVH02_O2MzQ
 
 
 해당 스터디에 관심이 있으신 분은 참여가 가능합니다. 다음의 이메일로 연락주세요 (sonicstage12@naver.com).   
