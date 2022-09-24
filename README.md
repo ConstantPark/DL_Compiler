@@ -140,5 +140,5 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Presenter:  박준형 (dkdkernel@gmail.com)
 	Date: September, 19, 2022
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/AsyMo-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC.pptx.pdf
-	Video: https://youtu.be/dVH02_O2MzQ
+	Video: https://youtu.be/MKYkq92Hdbk
 
