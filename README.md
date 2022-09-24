@@ -136,6 +136,9 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/220822_MobileViTv1.pdf
 	Video: https://youtu.be/dVH02_O2MzQ
 
+# AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs
+	Presenter:  박준형 (dkdkernel@gmail.com)
+	Date: September, 19, 2022
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/AsyMo-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC.pptx.pdf
+	Video: https://youtu.be/dVH02_O2MzQ
 
-해당 스터디에 관심이 있으신 분은 참여가 가능합니다. 다음의 이메일로 연락주세요 (sonicstage12@naver.com).   
-Anyone interested in the study can participate. Please contact us at the following email (sonicstage12@naver.com).
