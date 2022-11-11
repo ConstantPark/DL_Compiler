@@ -142,3 +142,15 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/AsyMo-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC.pptx.pdf
 	Video: https://youtu.be/MKYkq92Hdbk
 
+# Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization 
+	Presenter:  류재훈 (jaehunryu@postech.ac.kr)
+	Date: September, 19, 2022
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/Unity.pdf
+	Video: https://youtu.be/YMlXaP6uHnU
+	
+# Google Neural Network Models for Edge Devices: Analyzing and Mitigating Machine Learning Inference Bottlenecks
+	Presenter:  신용원 (ywshin@postech.ac.kr)
+	Date: September, 19, 2022
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/MENSA.pdf
+	Video: https://youtu.be/bnpdoZQB6Qs
+	
