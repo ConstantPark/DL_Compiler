@@ -129,7 +129,6 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/HDA.pdf
 	Video: https://youtu.be/C_GyaR4ukP0
 
-
 # MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer
 	Presenter:  이제민 (leejaymin@etri.re.kr)
 	Date: August, 22, 2022
@@ -153,4 +152,34 @@ This is a repository of the study "DL Compiler". The goal of this study is to un
 	Date: September, 19, 2022
 	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/MENSA.pdf
 	Video: https://youtu.be/bnpdoZQB6Qs
+	
+# Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design
+	Presenter:  Hyunwoo Cho (hyunwoocho@sogang.ac.kr)
+	Date: November, 11, 2022
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/DLC_Study_111422_hwcho.pdf
+	Video: https://youtu.be/7-aKgDxxOXU
+	
+# A Learned Performance Model for Tensor Processing Units
+	Presenter:  박주언 (jueonpark@postech.ac.kr)
+	Date: November, 19, 2022
+	PPT: -
+	Video: https://youtu.be/g-MJlRgRfto
+	
+# The Deep Learning Compiler: A Comprehensive Survey
+	Presenter:  이태영 (managingc@gmail.com)
+	Date: December, 12, 2022
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/The%20Deep%20Learning%20Compiler.pdf
+	Video: https://youtu.be/O2TjOvYl8Ys	
+	
+# Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration
+	Presenter:  노대철 (sheocjf1025@gmail.com)
+	Date: November, 26, 2022
+	PPT: https://github.com/ConstantPark/DL_Compiler/blob/main/221226%20-%20Distilling%20Bit-level%20Sparsity%20Parallelism%20for%20General%20Purpose%20Deep%20Learning%20Acceleration.pdf
+	Video: https://youtu.be/7-aKgDxxOXU	
+	
+# Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning
+	Presenter:  윤유경 (yugyoung@postech.ac.kr)
+	Date: Januaray, 09, 2023
+	PPT: -
+	Video: https://youtu.be/LGYYRRKxCjE		
 	
